@@ -21,7 +21,7 @@ A clean, desktop typing-speed tester built with **Python Tkinter**. Choose a dif
 3. When you finish the sentence **including the final period (`.`)**, a result dialog pops up with your **WPM** and **Accuracy**, and your score is added to the **Leaderboard**.
 4. Click **Restart** to reset the test and try again.
 
-> _Tip:_ Make sure you type the full prompt including the last `.` to trigger the results.
+> _Tip:_ Make sure you type the full sentence including the last `.` to trigger the results.
 
 ---
 
