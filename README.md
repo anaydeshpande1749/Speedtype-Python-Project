@@ -35,5 +35,5 @@ A clean, desktop typing-speed tester built with **Python Tkinter**. Choose a dif
 
 ### 1) Clone
 ```bash
-git clone https://github.com/<your-username>/typing-speed-tester.git
-cd typing-speed-tester
+git clone https://github.com/anaydeshpande1749/Speedtype-Python-Project.git
+cd Speedtype-Python-Project
