@@ -31,6 +31,26 @@ A clean, desktop typing-speed tester built with **Python Tkinter**. Choose a dif
 
 ---
 
+## 📸 Screenshots
+
+[Start Window] <img width="970" height="655" alt="Start Window" src="https://github.com/user-attachments/assets/364969ee-3146-4fdb-8148-15ee31213bec" />
+
+[Test User] <img width="983" height="663" alt="Test User" src="https://github.com/user-attachments/assets/22c0a60a-7400-4da8-ac3e-5abe427cfefd" />
+
+[Result] <img width="997" height="665" alt="Result" src="https://github.com/user-attachments/assets/9af08f1c-819d-427b-9d87-2e9fb05a394a" />
+
+
+
+---
+
+## 🎥 Demo Video
+
+https://github.com/user-attachments/assets/74bca2a8-c163-41ff-8266-992b5894d318
+
+---
+
+
+
 ## 🚀 Run Locally
 
 ### 1) Clone
